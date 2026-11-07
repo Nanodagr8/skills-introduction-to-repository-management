@@ -1,0 +1,7 @@
+# Core functionality: assign the exercise owner
+/src/app.py                  @Nanodagr8
+/src/backend/database.py     @Nanodagr8
+/src/backend/routers/auth.py @Nanodagr8
+
+# Frontend files
+/src/static/                 @Nanodagr8
