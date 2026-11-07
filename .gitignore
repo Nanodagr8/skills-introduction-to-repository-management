@@ -1,0 +1,25 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments and secrets
+env/
+venv/
+.venv/
+.env
+.env.*
+
+# IDE and local tooling
+.vscode/
+.idea/
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
